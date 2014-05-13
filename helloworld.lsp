@@ -1,3 +1,5 @@
+;newlisp -x helloworld.lsp helloworld
+
 (set 'hello "hello")
 (set 'world "newlisp!")
 
