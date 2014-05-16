@@ -6,3 +6,4 @@
 	(>= x 20) (define a "large"))
 
 (println a)
+(exit)
