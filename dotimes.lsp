@@ -1,4 +1,4 @@
-;Use dotimes whenyouknowthenumberofrepetition
+;Use dotimes when you know the number of repetition
 (dotimes (c 10) ;0 -> n-1
 	(println c " times 3 is " (* c 3)))
 
