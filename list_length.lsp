@@ -5,4 +5,5 @@
       (+ 1 (list-length (rest a-list)))
       0))
 
+;calc length
 (println (list-length '(1 2 5)))
